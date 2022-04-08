@@ -1,0 +1,4 @@
+names==0.3.0
+pyppeteer==1.0.2
+pyppeteer_stealth==2.7.3
+requests==2.26.0
